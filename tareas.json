@@ -1,0 +1,26 @@
+[            [        "NOTAS"     ],
+    {
+        "Titulo": "- tarea 1 -",
+         "Estado": "-> TERMINADO <-"   
+    },
+    {
+        "Titulo": "- tarea 2 -",
+        "Estado": "-> TERMINADO <-"
+    },
+    {
+        "Titulo": "- tarea 3 -",
+        "Estado": "-> EN PROGRESO <-"
+    },
+    {
+        "Titulo": "- tarea 4 -",
+        "Estado": "-> EN PROGRESO <-"
+    },
+    {
+        "Titulo": "- tarea 5 -",
+         "Estado": "-> PENDIENTE <-"
+    }, 
+    {
+        "Titulo": "- tarea 6 -",
+        "Estado": "-> POSPUESTA <-"
+    }
+]
